@@ -13,3 +13,9 @@ My favorite place is Dubai because of the **scenery** and just the **different a
     1. Collect checked bags
     2. Leave the airport
 4. Visit places in Dubai
+
+Things to Bring:
+* Clothes
+* Money
+* Sneakers
+* Jewelry 

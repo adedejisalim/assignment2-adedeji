@@ -35,4 +35,11 @@ This section will introduce you to different foods I would recommend you to try.
 | Schewepps  | Nigeria       | $2     |
 
 
+---
+
+# Pithy Quotes
+
+> The greatest glory in living lies not in never falling, but in rising every time we fall. *- Nelson Mandela*
+
+> If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. *- Oprah Winfrey* 
 

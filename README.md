@@ -21,3 +21,18 @@ Things to Bring:
 * Jewelry
 
 [Click Here to know About Me](AboutME.md)
+
+---
+
+# Food Table
+This section will introduce you to different foods I would recommend you to try.
+
+| Food/Drink | Where to find | Amount |
+| ---        | ---           | ---    |
+| Jollof Rice| Nigeria       | $15    |
+| Peri Peri  | London        | $20    |
+| Ramen      | Japan         | $5     |
+| Schewepps  | Nigeria       | $2     |
+
+
+

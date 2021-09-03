@@ -18,4 +18,6 @@ Things to Bring:
 * Clothes
 * Money
 * Sneakers
-* Jewelry 
+* Jewelry
+
+[Click Here to know About Me](AboutME.md)
